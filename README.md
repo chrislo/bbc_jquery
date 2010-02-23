@@ -8,7 +8,7 @@ Acknowledgements
 ----------------
 
 I borrowed some code from Duncan Robertson's [now-next Chrome browser
-extension](http://github.com/whomwah/BBC-Now-Next-Chrome).
+extension](http://github.com/whomwah/BBC-Now-Next-Chrome). Thanks, Duncan! 
 
 License
 -------
